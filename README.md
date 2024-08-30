@@ -59,9 +59,7 @@ To run this project, you need to have the following installed on your system:
    cd StudySync
    ```
 
-3. Edit the .env file to enter your OpenAI API key (or) If you face any trouble in this: Enter the key directly in the *server.js* like in the ss below
-<img src="/Screenshots/api-key.png" alt="API_KEY" width="750" height="200">
-
+3. Edit the .env file to enter your OpenAI API key (or) If you face any trouble in this: Enter the key directly in the *server.js*
 4. Navigate to the backend directory:
    ```
    cd backend
