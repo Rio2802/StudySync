@@ -44,7 +44,7 @@ These instructions will get you a copy of the project up and running on your loc
 ### Prerequisites
 
 To run this project, you need to have the following installed on your system:
-- Node.js
+- Node.js   
 - OpenAI API key
 
 ### Installing
@@ -83,15 +83,6 @@ To run this project, you need to have the following installed on your system:
    npm install
    npm run start
    ```
-
-
-## ⚡ Screenshots
-
-[![Homepage](/Screenshots/homepage.png)]()
-[![Upload Notes](/Screenshots/upload_notes.png)]()
-[![Personalized Quiz](/Screenshots/personalized_quiz.png)]()
-[![Flashcards](/Screenshots/flashcards.png)]()
-
 
 ## ⛏️ Built Using <a name = "built_using"></a>
 - GPT-4 API: for NLP and AI-driven text analysis
