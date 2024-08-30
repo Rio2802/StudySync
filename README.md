@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="/Screenshots/studysync_logo.png" alt="Logo">
-
 <h3 align="center">StudySync</h3>
 
 [![Status](https://img.shields.io/badge/status-active-success.svg)]() 
